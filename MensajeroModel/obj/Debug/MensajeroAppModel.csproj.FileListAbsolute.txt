@@ -1,0 +1,18 @@
+C:\Users\Daniel\source\repos\MensajeroAppModel\bin\Debug\MensajeroAppModel.dll
+C:\Users\Daniel\source\repos\MensajeroAppModel\bin\Debug\MensajeroAppModel.pdb
+C:\Users\Daniel\source\repos\MensajeroAppModel\obj\Debug\MensajeroAppModel.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\MensajeroAppModel\obj\Debug\MensajeroAppModel.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\MensajeroAppModel\obj\Debug\MensajeroAppModel.dll
+C:\Users\Daniel\source\repos\MensajeroAppModel\obj\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroAppModel\bin\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroAppModel\bin\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\bin\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\bin\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.pdb

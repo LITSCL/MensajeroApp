@@ -1,0 +1,37 @@
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\MensajeroApp.exe.config
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\MensajeroApp.exe
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\MensajeroApp.pdb
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\MensajeroAppModel.dll
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\MensajeroAppModel.pdb
+C:\Users\Daniel\source\repos\MensajeroApp\obj\Debug\MensajeroApp.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\MensajeroApp\obj\Debug\MensajeroApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\MensajeroApp\obj\Debug\MensajeroApp.csproj.CopyComplete
+C:\Users\Daniel\source\repos\MensajeroApp\obj\Debug\MensajeroApp.exe
+C:\Users\Daniel\source\repos\MensajeroApp\obj\Debug\MensajeroApp.pdb
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\SocketUtils.dll
+C:\Users\Daniel\source\repos\MensajeroApp\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.exe.config
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\SocketUtils.dll
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.CopyComplete
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.exe.config
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.exe
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\MensajeroApp.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\SocketUtils.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\bin\Debug\SocketUtils.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.csproj.CopyComplete
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.exe
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroApp\obj\Debug\MensajeroApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroModel.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroModel.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\obj\Debug\MensajeroAppModel.pdb
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\bin\Debug\MensajeroAppModel.dll
+C:\Users\MelchioT\Desktop\Proyectos\Proyectos C#\MensajeroApp\MensajeroAppModel\bin\Debug\MensajeroAppModel.pdb
